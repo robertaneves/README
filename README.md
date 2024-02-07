@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, eu sou Roberta Neves</h1>
 <h3 align="center">Eu sou uma apaixonada por programação full-stack</h3>
 
+- 🔭 Atualmente estou estudando Analise e Desenvolvimento de Sistemas na **Universidade Jorge Amado Da Bahia**
+
 - 🔭 Atualmente eu estou trabalhando com **Programção Full-Stack**
 
 - 🌱 Atualmente estou aprendendo **Javascript, HTML, CSS, Power BI**
