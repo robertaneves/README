@@ -12,7 +12,7 @@
 *   **Back-end:** Java (Spring Boot), PHP (Laravel, MVC), Node.JS (NestJS)
 *   **Front-end:** React/TypeScript, JavaScript, HTML5, CSS3, Bootstrap, Blade Templates
 *   **Banco de Dados:** PostgreSQL, MySQL, Oracle
-*   **Ferramentas e Tecnologias:** Git/GitHub, Flyway, Swagger, Postman, DBeaver, Composer, Power BI, Excel
+*   **Ferramentas e Tecnologias:** Git/GitHub/GitLab, Flyway, Swagger, Postman, DBeaver, Composer, Power BI, Excel
 
 ---
 
