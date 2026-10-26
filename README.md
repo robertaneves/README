@@ -1,19 +1,23 @@
-<h1>👋 Olá! Eu sou Roberta Neves</h1>
+# 👋 Olá! Eu sou Roberta Neves
 
-<p>💻 <strong>Desenvolvedora Full-Stack</strong> em formação, apaixonada por tecnologia, inovação e resolução de problemas.<br>
-🎓 Atualmente curso <strong>Análise e Desenvolvimento de Sistemas</strong> na <em>Universidade Jorge Amado da Bahia (UniJorge)</em>.<br>
-🚀 Busco sempre aprimorar minhas habilidades e contribuir para projetos que unam criatividade, eficiência e impacto.</p>
+💻 **Desenvolvedora** apaixonada por tecnologia, inovação e arquiteturas escaláveis. Atualmente atuo no desenvolvimento e manutenção de APIs RESTful e modelagem de banco de dados. <br>
+🎓 Formada em **Análise e Desenvolvimento de Sistemas** pela *Universidade Jorge Amado da Bahia (UniJorge)*. <br>
+🛡️ Atualmente cursando **Pós-Graduação em Cibersegurança** pela *Wyden Unifavip*. <br>
+🚀 Busco sempre aplicar boas práticas de desenvolvimento, unindo criatividade e eficiência para resolver problemas complexos. <br>
 
-<h2>📚 Habilidades Técnicas</h2>
-<ul>
-  <li><strong>Linguagens:</strong> Java (Spring Boot), PHP (Laravel), JavaScript, HTML, CSS</li>
-  <li><strong>Banco de Dados:</strong> MySQL</li>
-  <li><strong>Ferramentas e Tecnologias:</strong> Node.js, Composer, Power BI, Excel, Word</li>
-</ul>
+---
 
-<h2>📫 Contato</h2>
-<ul>
-  <li><strong>E-mail:</strong> <a href="mailto:roberta.neves76@hotmail.com">roberta.neves76@hotmail.com</a></li>
-  <li><strong>Telefone:</strong> (71) 99688-5113</li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/roberta-neves-a08570231" target="_blank">linkedin.com/in/roberta-neves-a08570231</a></li>
-</ul>
+### 📚 Habilidades Técnicas
+
+*   **Back-end:** Java (Spring Boot), PHP (Laravel, MVC), Node.JS (NestJS)
+*   **Front-end:** React/TypeScript, JavaScript, HTML5, CSS3, Bootstrap, Blade Templates
+*   **Banco de Dados:** PostgreSQL, MySQL, Oracle
+*   **Ferramentas e Tecnologias:** Git/GitHub, Flyway, Swagger, Postman, DBeaver, Composer, Power BI, Excel
+
+---
+
+### 📫 Contato
+
+*   **E-mail:** roberta.neves76@hotmail.com
+*   **Telefone:** (71) 99688-5113 / (71) 99372-8081
+*   **LinkedIn:** [Roberta Neves](https://linkedin.com/in/roberta-neves-a08570231)
